@@ -50,19 +50,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/OrbenAmy
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?user=QQBbWokAAAAJ&hl=en)
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/orbenamy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: [https://www.linkedin.com/](https://www.linkedin.com/in/amy-orben-82868477/)
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,6 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Amy is a Programme Leader Track Scientist at the MRC Cognition and Brain Sciences Unit, University of Cambridge and a Research Fellow at Emmanuel College, University of Cambridge. She leads the Digital Mental Health programme at the MRC CBU.
+Multi-award-winning and internationally renowned psychologist studying how digitalisation and social media use impacts adolescent mental health at the University of Cambridge.
 
 {style="text-align: justify;"}
