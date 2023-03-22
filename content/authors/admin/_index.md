@@ -78,5 +78,3 @@ highlight_name: true
 ---
 
 Multi-award-winning and internationally renowned psychologist studying how digitalisation and social media use impacts adolescent mental health at the University of Cambridge.
-
-{style="text-align: justify;"}
