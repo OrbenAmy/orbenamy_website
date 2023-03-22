@@ -14,8 +14,8 @@ sections:
       text:
   - block: bio
     id: bio
-    content:
-      text:
+    content: test
+      text: test
   - block: experience
     content:
       title: Experience
