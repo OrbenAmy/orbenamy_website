@@ -77,4 +77,4 @@ email: ''
 highlight_name: true
 ---
 
-Multi-award-winning and internationally renowned psychologist studying how digitalisation and social media use impacts adolescent mental health at the University of Cambridge.
+Multi-award-winning and internationally renowned psychologist studying how digitalisation and social media use impacts adolescent mental health. Fellow of St. John's College, University of Cambridge. Founder of the Digital Mental Health Group.
