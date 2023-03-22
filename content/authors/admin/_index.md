@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Group Leader
+role: Programme Leader Track Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
