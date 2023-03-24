@@ -15,10 +15,10 @@ sections:
   - block: markdown
     content:
       title: CV
-      subtitle: ''
+      subtitle: 'Resune'
       text: testing
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: featured
     content:
