@@ -16,14 +16,14 @@ sections:
     content:
       title: Research
       subtitle: ''
-      text: Dr Orben's research examines how digital technologies affect adolescent psychological well-being and mental health. She is particularly interested in the potential cognitive, biological and social mechanisms that underlie this link in both non-clinical and clinical populations, and the influence of individual differences. To study such research questions, Amy’s team uses innovative and rigorous statistical methodology, secondary datasets, and Open Science approaches. Her results, in turn, shed new light on pressing questions debated in policy, parenting and mental health, having informed advice given by national and international experts such as the UK Chief Medical Officers and the US Surgeon General.
+      text: Dr Orben investigates how digital technologies affect adolescent psychological well-being and mental health. She is particularly interested in the potential cognitive, biological and social mechanisms that underlie this link in both non-clinical and clinical populations, and the influence of individual differences. Her results have shed new light on pressing questions debated in policy, parenting and mental health, having informed advice given by national and international experts such as the UK Chief Medical Officers and the US Surgeon General. Click [here](https://orben.group) to learn more about her team.
     design:
       columns: '2'
   - block: markdown
     content:
-      title: Prizes and Recognition
+      title: Impact & Recognition
       subtitle: ''
-      text: Amy is a member of the UK Department for Digital, Culture, Media and Sport “College of Experts” giving direct advice to government, as well as the British Academy Public Policy Committee. She also sits on the University of Cambridge Open Research Steering Committee and the ESRC New and Emerging Forms of Data Leadership Group. She has won the Inaugural MRC Early Career Impact Award, the British Neuroscience Association Researcher Credibility Prize, the Society for the Improvement of Psychological Science Mission Award and the UK Reproducibility Network Dorothy Bishop Early Career Researcher Prize for her work to improve scientific practices. At both the University of Oxford and the University of Cambridge Amy has received nominations for student-led teaching awards.
+      text: Dr Orben has won a range of prestigious prizes including the Inaugural MRC Early Career Impact Award, the British Neuroscience Association Researcher Credibility Prize, the Society for the Improvement of Psychological Science Mission Award and the UK Reproducibility Network Dorothy Bishop Early Career Researcher Prize. At both the University of Oxford and the University of Cambridge she has received nominations for student-led teaching awards. Dr Orben is also a member of a range of influential committees, including the UK Department for Digital, Science, Innovation and Technology College of Experts, the British Academy Public Policy Committee, the University of Cambridge Open Research Steering Committee and the ESRC New and Emerging Forms of Data Leadership Group.
     design:
       columns: '2'
   - block: collection
