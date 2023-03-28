@@ -31,9 +31,7 @@ sections:
     content:
       title: Impact & Recognition
       subtitle: ''
-      text: Dr Orben has won a range of prestigious prizes including the Inaugural MRC Early Career Impact Award, the British Neuroscience Association Researcher Credibility Prize, the Society for the Improvement of Psychological Science Mission Award and the UK Reproducibility Network Dorothy Bishop Early Career Researcher Prize. At both the University of Oxford and the University of Cambridge she has received nominations for student-led teaching awards. Dr Orben is also a member of a range of influential committees, including the UK Department for Digital, Science, Innovation and Technology College of Experts, the British Academy Public Policy Committee, the University of Cambridge Open Research Steering Committee and the ESRC Digital Footrpints Programme Board.
-      
-      Click [here](http://amyorben.com/uploads/cv_orben.pdf) to view full CV.
+      text: Dr Orben has won a range of prestigious prizes including the Inaugural MRC Early Career Impact Award, the British Neuroscience Association Researcher Credibility Prize, the Society for the Improvement of Psychological Science Mission Award and the UK Reproducibility Network Dorothy Bishop Early Career Researcher Prize. At both the University of Oxford and the University of Cambridge she has received nominations for student-led teaching awards. Dr Orben is also a member of a range of influential committees, including the UK Department for Digital, Science, Innovation and Technology College of Experts, the British Academy Public Policy Committee, the University of Cambridge Open Research Steering Committee and the ESRC Digital Footrpints Programme Board. Click [here](http://amyorben.com/uploads/cv_orben.pdf) to view full CV.
     design:
       columns: '2'
   - block: markdown
