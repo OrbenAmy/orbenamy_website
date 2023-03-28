@@ -42,4 +42,11 @@ sections:
         {{< gallery album="impact" >}}
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text: Click [here](http://amyorben.com/uploads/cv_orben.pdf) to view full CV.
+    design:
+      columns: '1'
 ---
