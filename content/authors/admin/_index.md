@@ -79,4 +79,4 @@ highlight_name: true
 
 Multi-award-winning psychologist studying how digitalisation & social media use impact adolescent mental health. 
 
-Leading the [Digital Mental Health Group](https://orben.group) at the MRC Cognition and Brain Sciences Unit, University of Cambridge. Fellow Elect of St. John's College. 
+Leading the [Digital Mental Health Group](https://orben.group) at the MRC Cognition and Brain Sciences Unit, University of Cambridge. Fellow of St. John's College. 
