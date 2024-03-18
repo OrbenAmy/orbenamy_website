@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Programme Leader Track Scientist
+role: UKRI Future Leaders Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
