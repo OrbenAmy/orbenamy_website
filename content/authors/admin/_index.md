@@ -22,7 +22,7 @@ organizations:
     url: https://www.digitalmentalhealth.group
 
 # Short bio (displayed in user profile at end of posts)
-bio: Group Leader (Programme Leader Track) at the University of Cambridge MRC Cognition and Brain Sciences Unit
+bio: Programme Leader at the University of Cambridge MRC Cognition and Brain Sciences Unit
 
 # Interests to show in About widget
 interests:
