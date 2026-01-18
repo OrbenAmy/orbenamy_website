@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amy Orben
+title: Professor Amy Orben
 
 # Full name (for SEO)
 first_name: Amy
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: UKRI Future Leaders Fellow
+role: Research Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,4 +79,4 @@ highlight_name: true
 
 Multi-award-winning psychologist studying how digitalisation & social media use impact adolescent mental health. 
 
-Leading the [Digital Mental Health Group](https://orben.group) at the MRC Cognition and Brain Sciences Unit, University of Cambridge. Fellow of St. John's College. 
+Leading the [Digital Mental Health Group](https://orben.group) at the MRC Cognition and Brain Sciences Unit, University of Cambridge: one of the UK's largest and most influential research teams studying the impact of digital environments on young people. Fellow of St. John's College. 
