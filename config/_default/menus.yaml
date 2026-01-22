@@ -10,9 +10,3 @@ main:
   - name: CV
     url: uploads/cv_orben.pdf
     weight: 20
-  - name: Teaching
-    url: uploads/syllabus.pdf
-    weight: 30
-  - name: Thesis
-    url: uploads/thesis
-    weight: 40
